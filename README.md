@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Keshav</h1> <h3 align="center">Aspiring Data Scientist | Student at Lovely Professional University</h3> <p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" /> </p>
-🌱 
+
 Languages: Python, R, SQL, C++, Java<br>
 Frameworks: Flask, Shiny<br>
 Libraries: Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Tidyverse, caret, dplyr, e1071, tm, rmarkdown<br>
