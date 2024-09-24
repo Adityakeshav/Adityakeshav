@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Student at Lovely Professional University</h3>
 
 <p align="center">
-  <img src="https://www.pngitem.com/pimgs/m/8-82645_data-science-data-science-is-the-new-oil.png" alt="Data Science Animation" width="400" />
+  
 </p>
 
 ---
