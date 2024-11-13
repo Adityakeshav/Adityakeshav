@@ -10,10 +10,10 @@
 ### 👨‍💻 Technical Skills
 
 - **Languages:** Python, R, SQL, C++, Java  
-- **Frameworks:** Flask, Shiny  
+- **Frameworks:** Flask, Shiny , Streamlit
 - **Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Tidyverse, caret, dplyr, e1071, tm, rmarkdown  
-- **Tools:** Jupyter Notebook, RStudio, Git, GitHub, MS Excel, Tableau, Power BI, Microsoft Azure (Familiar)  
-- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Jupyter Notebook, RStudio, Git, GitHub, MS Excel, Tableau, Power BI, Microsoft Azure ,
+- **Databases:** MySQL, PostgreSQL , MongoDB
 
 ---
 
