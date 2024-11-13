@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋,I'm Aditya Keshav, an aspiring Data Scientist passionate about exploring data, building machine learning models, and deriving insights to solve real-world problems.</h1>
+<h1 align="center">Hi 👋</h1>
+<h3>I'm Aditya Keshav, an aspiring Data Scientist passionate about exploring data, building machine learning models, and deriving insights to solve real-world problems.</h3>
 
 
 <p align="center">
