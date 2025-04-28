@@ -2,6 +2,7 @@
 <h3>I'm Aditya Keshav, an aspiring Data Scientist passionate about exploring data, building machine learning models, and deriving insights to solve real-world problems.</h3>
 
 
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" />
 </p>
