@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Keshav;Data+Scientist+%E2%86%92+Data+Engineer;Building+Pipelines+%7C+Deriving+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Keshav;Data+Scientist+%26+Data+Engineer;Building+Scalable+Data+Pipelines;Azure+Certified+%7C+ML+%7C+Analytics" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Aspiring Data Engineer | Data Science Minor | Azure Certified | Passionate about scalable data systems</h3>
+<h3 align="center">⚙️ Data Engineer in Progress &nbsp;|&nbsp; 📊 Data Science Minor &nbsp;|&nbsp; ☁️ Azure Certified &nbsp;|&nbsp; 🔁 ETL · Pipelines · Analytics</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="400"/>
@@ -83,7 +83,7 @@
 
 ## 🏅 Certifications
 
-- ☁️ **Microsoft Azure** — Cloud Fundamentals 
+- ☁️ **Microsoft Azure** — Cloud Fundamentals / Data Services *(certified)*
 - 📊 **Data Science Minor** — Academic credential with project experience
 
 ---
@@ -95,7 +95,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/adityxkeshav" target="blank">
+  <a href="https://instagram.com/_adityakeshav" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
