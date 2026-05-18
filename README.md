@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Keshav;Data+Scientist+%26+Data+Engineer;Building+Scalable+Data+Pipelines;Azure+Certified+%7C+ML+%7C+Analytics" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">⚙️ Data Engineer in Progress &nbsp;|&nbsp; 📊 Data Science Minor &nbsp;|&nbsp; ☁️ Azure Certified &nbsp;|&nbsp; 🔁 ETL · Pipelines · Analytics</h3>
+<h3 align="center">⚙️ Data Engineer in Progress &nbsp;|&nbsp; 📊 Data Science &nbsp;|&nbsp; ☁️ Azure Certified &nbsp;|&nbsp; 🔁 ETL · Pipelines · Analytics</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="400"/>
