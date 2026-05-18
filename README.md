@@ -83,7 +83,7 @@
 
 ## 🏅 Certifications
 
-- ☁️ **Microsoft Azure** — Cloud Fundamentals / Data Services *(certified)*
+- ☁️ **Microsoft Azure** — Cloud Fundamentals *
 - 📊 **Data Science Minor** — Academic credential with project experience
 
 ---
